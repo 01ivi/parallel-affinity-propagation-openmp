@@ -1,0 +1,11 @@
+parallel_ap
+parallel_ap.exe
+parallel_ap_serial
+sparse_ap_omp
+sparse_ap_omp_serial
+labels.csv
+results/*.csv
+*.o
+*.out
+*.dSYM/
+.DS_Store
